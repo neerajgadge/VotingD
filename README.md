@@ -2,7 +2,7 @@
   VotingD
   this is my first git repository
   <br>
-  author Neeraj Gadge
+  author Neeraj (Gadge)
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.0;
 
